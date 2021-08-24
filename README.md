@@ -2,7 +2,7 @@
 ### Hello everyone, welcome! I’m Dany Naka ♥️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danynaka&theme=dracula&show_icons=true)
-<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danynaka&layout=compact&theme=dracula)
 
 <!-- ### You can also find me on:
